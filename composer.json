@@ -1,0 +1,22 @@
+{
+    "name": "yuukooagency/Sitemap",
+    "type": "magento-module",
+    "license": "OSL-3.0",
+    "description": "Atwix Sitemap Extension",
+    "license": [
+        "Commercial"
+    ],
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Igor Furseev",
+            "email": "igor@atwix.com"
+        }
+    ],
+    "extra": {
+        "map" : [
+            ["app/code/community/Atwix/Sitemap","app/code/community/Atwix/Sitemap"],
+            ["app/etc/modules/Atwix_Sitemap.xml","app/etc/modules/Atwix_Sitemap.xml"]
+        ]
+    }
+}
