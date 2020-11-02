@@ -3,9 +3,6 @@
     "type": "magento-module",
     "license": "OSL-3.0",
     "description": "Atwix Sitemap Extension",
-    "license": [
-        "Commercial"
-    ],
     "minimum-stability": "dev",
     "authors": [
         {
